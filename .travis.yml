@@ -1,0 +1,4 @@
+language: c
+install: make dep
+script: ./geometry_test
+sudo: enabled
